@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/order-react-js/static/css/main.842b4d3d.css",
+    "main.js": "/order-react-js/static/js/main.bcb7c664.js",
+    "static/js/787.4e2d0560.chunk.js": "/order-react-js/static/js/787.4e2d0560.chunk.js",
+    "static/media/restaurant-logo-design.jpg": "/order-react-js/static/media/restaurant-logo-design.22e14ae5a41e1f1219d5.jpg",
+    "static/media/44-440249_paypal-payment-methods-icons-hd-png-download.png": "/order-react-js/static/media/44-440249_paypal-payment-methods-icons-hd-png-download.debc767c31abcbfb214c.png",
+    "index.html": "/order-react-js/index.html",
+    "main.842b4d3d.css.map": "/order-react-js/static/css/main.842b4d3d.css.map",
+    "main.bcb7c664.js.map": "/order-react-js/static/js/main.bcb7c664.js.map",
+    "787.4e2d0560.chunk.js.map": "/order-react-js/static/js/787.4e2d0560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.842b4d3d.css",
+    "static/js/main.bcb7c664.js"
+  ]
+}
